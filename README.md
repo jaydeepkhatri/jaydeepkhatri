@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on Computer Engineering (4th Year). My hobbies are learning new things. (I have a nice list xD), Surfing the Internet 🤭, reading books 🌈.
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api/?username=jaydeepkhatri" alt="git stats">
+<img src="https://github-readme-stats.vercel.app/api/?username=jaydeepkhatri&show_icons=true" alt="git stats">
+
+### Working on
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=PewNews)](https://github.com/jaydeepkhatri/PewNews)
 
 ### Connect with me 
 <a href="https://jaydeepkhatri.me" target="_blank"> Website </a> | <a href="https://www.twitter.com/jaydeepkhatri79"> Twitter </a> | <a href="https://www.instagram.com/jaydeepkhatri79"> Instagram </a> | <a href="https://www.sololearn.com/Profile/487380"> SoloLearn </a>

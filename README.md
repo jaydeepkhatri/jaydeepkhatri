@@ -24,7 +24,7 @@ I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api/?username=jaydeepkhatri&show_icons=true" alt="git stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-architects" alt="Top language">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-architects&layout=compact" alt="Top language">
 
 ### Working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=Vartalap)](https://github.com/jaydeepkhatri/Vartalap)

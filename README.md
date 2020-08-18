@@ -28,7 +28,6 @@ I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on
 
 ### Working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=Vartalap)](https://github.com/jaydeepkhatri/Vartalap)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=Currency-Converter)](https://github.com/jaydeepkhatri/Currency-Converter)
 
 
 ### Connect with me 

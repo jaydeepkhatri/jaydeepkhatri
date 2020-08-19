@@ -1,24 +1,5 @@
-
-
-<!--
-**jaydeepkhatri/jaydeepkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <h2 align="center"> Hello, I am Jaydeep Khatri </h2>
-<p align="center"><a href="https://www.twitter.com/jaydeepkhatri79">@jaydeepkhatri79</a></p>
+<p align="center"><a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2jaydeepkhatri&screen_name=Jaydeep%20Khatri" ><img src="https://img.shields.io/twitter/follow/jaydeepkhatri79?color=1DA1F2&logo=twitter&style=for-the-badge" /></a></p>
 
 I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on Computer Engineering (4th Year). My hobbies are learning new things. (I have a nice list xD), Surfing the Internet 🤭, reading books 🌈.
 
@@ -30,5 +11,20 @@ I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=Vartalap)](https://github.com/jaydeepkhatri/Vartalap)
 
 
+<details>
+  <summary> Recent Github Activity</summary>
+  <!--START_SECTION:activity-->
+  
+  <!--END_SECTION:activity-->
+</details>
+
 ### Connect with me 
-<a href="https://jaydeepkhatri.me" target="_blank"> Website </a> | <a href="https://www.twitter.com/jaydeepkhatri79"> Twitter </a> | <a href="https://www.instagram.com/jaydeepkhatri79"> Instagram </a> | <a href="https://www.sololearn.com/Profile/487380"> SoloLearn </a>
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.sololearn.com/Profile/487380"> SoloLearn </a>
+
+
+[website]: https://jaydeepkhatri.me
+[twitter]: https://www.twitter.com/jaydeepkhatri79
+[instagram]: https://www.instagram.com/jaydeepkhatri79

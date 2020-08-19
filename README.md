@@ -14,8 +14,7 @@ I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on
 <details>
   <summary> Recent Github Activity</summary>
   <!--START_SECTION:activity-->
-  
-  <!--END_SECTION:activity-->
+ 
 </details>
 
 ### Connect with me 

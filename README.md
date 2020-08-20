@@ -10,18 +10,19 @@ I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on
 <img src="https://github-readme-stats.vercel.app/api/?username=jaydeepkhatri&show_icons=true" alt="git stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-architects&layout=compact" alt="Top language">
 
-
-<details>
-  <summary> Recent Github Activity</summary>
-  <!--START_SECTION:activity-->
- 
-</details>
-
 ### Connect with me 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <a href="https://www.sololearn.com/Profile/487380"> SoloLearn </a>
+
+
+<details>
+  <summary> Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+ 
+</details>
 
 
 [website]: https://jaydeepkhatri.me

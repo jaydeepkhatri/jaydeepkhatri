@@ -17,14 +17,6 @@ I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on
 <a href="https://www.sololearn.com/Profile/487380"> SoloLearn </a>
 
 
-<details>
-  <summary> Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
- 
-</details>
-
-
 [website]: https://jaydeepkhatri.me
 [twitter]: https://www.twitter.com/jaydeepkhatri79
 [instagram]: https://www.instagram.com/jaydeepkhatri79

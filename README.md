@@ -1,5 +1,5 @@
 <h2 align="center"> Hello, I am Jaydeep Khatri </h2>
-<p align="center"><a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2jaydeepkhatri&screen_name=Jaydeep%20Khatri" ><img src="https://img.shields.io/twitter/follow/jaydeepkhatri79?color=1DA1F2&logo=twitter&style=for-the-badge" /></a></p>
+<p align="center"><a href="https://twitter.com/intent/follow?original_referer=https://twitter.com/jaydeepkhatri79&screen_name=jaydeepkhatri79" ><img src="https://img.shields.io/twitter/follow/jaydeepkhatri79?color=1DA1F2&logo=twitter&style=for-the-badge" /></a></p>
 
 I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on Computer Engineering (4th Year). My hobbies are learning new things. (I have a nice list xD), Surfing the Internet 🤭, reading books 🌈.
 

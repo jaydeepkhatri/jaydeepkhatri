@@ -5,7 +5,7 @@ I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on
 
 ### Working on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=Vartalap)](https://github.com/jaydeepkhatri/Vartalap)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=Chuck-Norris-Jokes)](https://github.com/jaydeepkhatri/Chuck-Norris-Jokes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=What-should-I-do)](https://jaydeepkhatri.github.io/What-should-I-do/)
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api/?username=jaydeepkhatri&show_icons=true" alt="git stats">

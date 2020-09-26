@@ -9,7 +9,7 @@ I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api/?username=jaydeepkhatri&show_icons=true" alt="git stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-architects&layout=compact" alt="Top language">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeepkhatri&layout=compact" alt="Top language">
 
 ### Connect with me 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

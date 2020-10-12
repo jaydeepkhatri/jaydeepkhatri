@@ -4,8 +4,8 @@
 I am 20 years👨. I live in Gujarat (🇮🇳) . I am pursuing B.Tech degree on Computer Engineering (4th Year). My hobbies are learning new things. (I have a nice list xD), Surfing the Internet 🤭, reading books 🌈.
 
 ### Working on
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=Instagram-Widget)](https://github.com/jaydeepkhatri/Instagram-Widget)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=Vartalap)](https://github.com/jaydeepkhatri/Vartalap)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaydeepkhatri&repo=jaydeepkhatri.github.io)](https://github.com/jaydeepkhatri/jaydeepkhatri.github.io)
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api/?username=jaydeepkhatri&show_icons=true" alt="git stats">

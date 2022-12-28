@@ -11,7 +11,6 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydeepkhatri&show_icons=true&locale=en" alt="jaydeepkhatri" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeepkhatri&" alt="jaydeepkhatri" /></p>
 
 <h3 align="left">Connect with me:</h3>

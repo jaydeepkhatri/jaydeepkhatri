@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaydeep Khatri</h1>
 
-- 🔭 I’m currently working on [Webper](https://github.com/jaydeepkhatri/Webper)
+- 🔭 I’m currently working on [NewsLibrary](https://github.com/jaydeepkhatri/NewsLibrary)
 
 - 🌱 I’m currently learning **Tailwind & Typescript**
 
